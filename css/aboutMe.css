@@ -1,7 +1,7 @@
 body{
     margin: 0;
     padding: 0;
-    background: linear-gradient(rgba(25,42,86,1),rgba(47,54,64,0.2)),url(../img/aboutbg.jpeg) no-repeat;
+    background: linear-gradient(rgba(25,42,86,1),rgba(47,54,64,0.2)), no-repeat;
     background-size: cover;
   }
   .box{
