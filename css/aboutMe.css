@@ -1,0 +1,68 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(rgba(25,42,86,1),rgba(47,54,64,0.2)),url(../img/aboutbg.jpeg) no-repeat;
+    background-size: cover;
+  }
+  .box{
+    width: 450px;
+    background: rgba(0, 0, 0, 0.4);
+    padding: 40px;
+    text-align: center;
+    margin: auto;
+    margin-top: 5%;
+    color: white;
+    font-family: 'Century Gothic',sans-serif;
+  }
+  .box-img{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+  }
+  .box h2{
+    font-size: 35px;
+    letter-spacing: 2px;
+    font-weight: 90;
+  }
+  .box h5{
+    font-size: 20px;
+    letter-spacing: 3px;
+    font-weight: 100;
+  }
+  .box p{
+    text-align: justify;
+  }
+  ul{
+    margin: 0;
+    padding: 0;
+  }
+  .box li{
+    display: inline-block;
+    margin: 6px;
+    list-style: none;
+  }
+  .box li a{
+    color: white;
+    text-decoration: none;
+    font-size: 60px;
+    transition: all ease-in-out 250ms;
+  }
+  .box li a:hover{
+    color: #b9b9b9;
+  }
+  .manu a{
+    text-decoration: none;
+    color: white;
+    padding: 10px 20px;
+    margin: 20px auto;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.manu{
+    padding-top: 10px;
+}
+.manu a:hover{
+    background-color: #192a56;
+}

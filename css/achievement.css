@@ -1,0 +1,45 @@
+
+body{
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(-90deg,rgba(25,42,86,1),rgba(47,54,64,0.2)),linear-gradient(90deg,rgba(25,42,86,1),rgba(47,54,64,0.2)), url(../img/1.jpeg);
+    background-size: cover;
+  }
+.manu a{
+    text-decoration: none;
+    color: white;
+    padding: 10px 20px;
+    margin: 20px auto;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.manu{
+    padding-top: 20px;
+}
+.manu a:hover{
+    background-color: #192a56;
+}
+#coard1{
+
+    padding: 2%;
+    margin-left: 20%;
+    margin-top: 15%;
+    background: rgba(0, 0, 0, 0.2);
+}
+#coard2{
+
+    padding: 2%;
+    margin-top: 15%;
+    background: rgba(0, 0, 0, 0.2);
+}
+
+.card-img-top{
+    text-align: center;
+    height: 250px;
+    width: auto;
+}
+.card-text{
+    color:white
+} 
